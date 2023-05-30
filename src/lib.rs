@@ -1,3 +1,3 @@
 pub fn greet(s: &str) {
-  println!("hello, {}!",s)
+    println!("hello, {}!",s)
 }
